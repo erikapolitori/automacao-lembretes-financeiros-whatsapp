@@ -4,7 +4,7 @@ Sistema desenvolvido para automatizar o envio de lembretes financeiros utilizand
 
 ## Objetivo
 
-Automatizar o processo de envio de lembretes de contas a vencer, reduzindo atividades manuais e melhorando o controle financeiro.
+Automatizar o envio de lembretes financeiros utilizando integração entre Google Sheets, Google Apps Script e WhatsApp Cloud API, reduzindo atividades manuais e melhorando o controle financeiro.
 
 ## Tecnologias utilizadas
 
@@ -50,4 +50,10 @@ assets/
 
 **Erika Gomes**
 
-Graduanda em Sistemas para Internet.
+Graduanda em Sistemas para Internet
+
+LinkedIn:
+www.linkedin.com/in/erika-gomes-politori
+
+GitHub:
+github.com/erikapolitori
