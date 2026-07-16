@@ -1,4 +1,4 @@
-# 📲 Automação de Lembretes Financeiros via WhatsApp
+# Automação de Lembretes Financeiros via WhatsApp
 
 Sistema desenvolvido para automatizar o envio de lembretes financeiros utilizando Google Apps Script, Google Sheets e WhatsApp Cloud API.
 
